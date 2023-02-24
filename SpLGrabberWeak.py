@@ -4,7 +4,7 @@ import json
 from discord import Embed, File, SyncWebhook
 from urllib.request import Request, urlopen
 
-webhook = ''
+webhook = 'Enter Your Webhook'
 
 tag = True
 
